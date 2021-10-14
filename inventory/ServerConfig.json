@@ -1,38 +1,38 @@
 {
 
 "ServerAuthorizedPerms": {
-"RegisterID": "",
-"BanSpearID": "",
-"JailSpearID": "",
-"MuteSpearID": "",
-"VoiceMuteSpearID": "",
-"AbilityID": "",
-"OzelRol": ""
+"RegisterID": "895604574382067712",
+"BanSpearID": "895604546699661372",
+"JailSpearID": "895604548746481714",
+"MuteSpearID": "895604549279162409",
+"VoiceMuteSpearID": "895604549279162409",
+"AbilityID": "895604590672760862",
+"OzelRol": "895359533881368576"
 },
 
 "Channels": {
-"RulesLogChannelID": "",
-"BanLogChannelID": "",
-"JailLogChannelID": "",
-"MuteLogChannelID": "",
-"VoiceMuteLogChannelID": ""
+"RulesLogChannelID": "895606278406152203",
+"BanLogChannelID": "897782874995032084",
+"JailLogChannelID": "897782908939550730",
+"MuteLogChannelID": "897782772360421396",
+"VoiceMuteLogChannelID": "897782809966542868"
 },
 
 "Penalties": {
-"JailRole": "ID",
-"MuteRole": "ID",
-"YasakliTag": "ID"
+"JailRole": "895359548787937350",
+"MuteRole": "895359550478237697",
+"YasakliTag": "895359548787937350"
 },
 
 "ServerSettings": {
-"GuildID": "",
-"GuildName": "",
-"KatildiRol": "",
-"ToplantiKanal": "",
-"UnregisterID": "",
+"GuildID": "895357104913809478",
+"GuildName": "Valensa",
+"KatildiRol": "895604592082038814",
+"ToplantiKanal": "898122451609853993",
+"UnregisterID": "895359536158871632",
 
-"ServerTag": "",
-"UnTag": ""
+"ServerTag": "✧",
+"UnTag": "✦"
 },
 
 "Colors": {
@@ -49,10 +49,10 @@
 },
 
 "Emoji": {
-"True": "emoji <a:saddas:12344123213> böyle gir",
-"False": "emoji <a:saddas:12344123213> böyle gir",
-"TrueID": "burayada emojilerin sadece idsi",
-"FalseID": "burayada sadece emojilerin idisi"
+"True": "<a:yesilok1:896023450626433045>",
+"False": "<:redd82828:897785308588933200>",
+"TrueID": "896023450626433045",
+"FalseID": "897785308588933200"
 }
 
 }
